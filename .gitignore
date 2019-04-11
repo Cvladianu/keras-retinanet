@@ -10,3 +10,9 @@ test2/
 build/
 annotations/
 output.xml
+
+.ipynb_checkpoints
+.ipynb_checkpoints/
+**/*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
