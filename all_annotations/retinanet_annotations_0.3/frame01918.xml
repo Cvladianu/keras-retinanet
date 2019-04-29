@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame01918</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>481.17215</xmin>
+      <ymin>506.93616</ymin>
+      <xmax>560.483</xmax>
+      <ymax>584.5945</ymax>
+    </bndbox>
+  </object>
+</annotations>

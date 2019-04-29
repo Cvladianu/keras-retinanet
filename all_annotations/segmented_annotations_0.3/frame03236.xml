@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame03236</file>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>1195.3892</xmin>
+      <ymin>263.7374</ymin>
+      <xmax>1280.6674</xmax>
+      <ymax>393.10486</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>1195.5171</xmin>
+      <ymin>257.21957</ymin>
+      <xmax>1281.3783</xmax>
+      <ymax>399.31836</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>1165.8342</xmin>
+      <ymin>395.37195</ymin>
+      <xmax>1252.8346</xmax>
+      <ymax>477.1436</ymax>
+    </bndbox>
+  </object>
+</annotations>

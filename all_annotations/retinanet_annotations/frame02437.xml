@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02437</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>523.16516</xmin>
+      <ymin>2.4217389</ymin>
+      <xmax>592.88196</xmax>
+      <ymax>36.74319</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1046.206</xmin>
+      <ymin>394.3445</ymin>
+      <xmax>1092.6342</xmax>
+      <ymax>483.9016</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>522.5819</xmin>
+      <ymin>1.7369891</ymin>
+      <xmax>592.79974</xmax>
+      <ymax>36.320686</ymax>
+    </bndbox>
+  </object>
+</annotations>

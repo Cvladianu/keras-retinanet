@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame01978</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>159.22438</xmin>
+      <ymin>14.067848</ymin>
+      <xmax>189.75217</xmax>
+      <ymax>37.84172</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>318.61038</xmin>
+      <ymin>14.401709</ymin>
+      <xmax>340.18307</xmax>
+      <ymax>35.314613</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>172.32292</xmin>
+      <ymin>13.259649</ymin>
+      <xmax>186.9462</xmax>
+      <ymax>34.103233</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>320.47495</xmin>
+      <ymin>14.703169</ymin>
+      <xmax>339.20123</xmax>
+      <ymax>35.02269</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>320.61993</xmin>
+      <ymin>13.57907</ymin>
+      <xmax>357.97665</xmax>
+      <ymax>38.921726</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>0.0</ymin>
+      <xmax>640.2</xmax>
+      <ymax>265.94498</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>968.28265</xmin>
+      <ymin>240.0</ymin>
+      <xmax>1280.925</xmax>
+      <ymax>671.53394</ymax>
+    </bndbox>
+  </object>
+</annotations>

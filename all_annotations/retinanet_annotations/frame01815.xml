@@ -1,0 +1,75 @@
+<annotations>
+  <file>frame01815</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>619.86</xmin>
+      <ymin>608.5957</ymin>
+      <xmax>642.23334</xmax>
+      <ymax>663.42773</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>611.7949</xmin>
+      <ymin>611.72534</ymin>
+      <xmax>636.10864</xmax>
+      <ymax>666.3909</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>618.49567</xmin>
+      <ymin>599.9012</ymin>
+      <xmax>654.29486</xmax>
+      <ymax>671.20996</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>619.86</xmin>
+      <ymin>608.5957</ymin>
+      <xmax>642.23334</xmax>
+      <ymax>663.42773</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>615.21124</xmin>
+      <ymin>559.3203</ymin>
+      <xmax>661.8241</xmax>
+      <ymax>667.9736</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>kite</name>
+    <bndbox>
+      <xmin>619.62195</xmin>
+      <ymin>607.9527</ymin>
+      <xmax>642.06647</xmax>
+      <ymax>660.6167</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>umbrella</name>
+    <bndbox>
+      <xmin>619.62195</xmin>
+      <ymin>607.9527</ymin>
+      <xmax>642.06647</xmax>
+      <ymax>660.6167</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>parking meter</name>
+    <bndbox>
+      <xmin>619.86</xmin>
+      <ymin>608.5957</ymin>
+      <xmax>642.23334</xmax>
+      <ymax>663.42773</ymax>
+    </bndbox>
+  </object>
+</annotations>

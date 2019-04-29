@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame02755</file>
+  <object>
+    <name>banana</name>
+    <bndbox>
+      <xmin>1193.221</xmin>
+      <ymin>178.29941</ymin>
+      <xmax>1251.1774</xmax>
+      <ymax>264.76553</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vase</name>
+    <bndbox>
+      <xmin>1195.08</xmin>
+      <ymin>175.65483</ymin>
+      <xmax>1251.3052</xmax>
+      <ymax>263.0339</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>backpack</name>
+    <bndbox>
+      <xmin>1102.9944</xmin>
+      <ymin>0.40196228</ymin>
+      <xmax>1162.5117</xmax>
+      <ymax>72.60065</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>1026.6465</xmin>
+      <ymin>7.488477</ymin>
+      <xmax>1122.1116</xmax>
+      <ymax>139.39812</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>1064.58</xmin>
+      <ymin>55.944805</ymin>
+      <xmax>1118.5182</xmax>
+      <ymax>135.05852</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1103.1285</xmin>
+      <ymin>0.9263536</ymin>
+      <xmax>1162.7194</xmax>
+      <ymax>73.0422</ymax>
+    </bndbox>
+  </object>
+</annotations>

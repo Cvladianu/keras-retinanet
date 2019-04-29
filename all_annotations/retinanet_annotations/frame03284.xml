@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame03284</file>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>143.068</xmin>
+      <ymin>653.29584</ymin>
+      <xmax>274.0904</xmax>
+      <ymax>776.51587</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>broccoli</name>
+    <bndbox>
+      <xmin>142.02092</xmin>
+      <ymin>652.83246</ymin>
+      <xmax>270.6156</xmax>
+      <ymax>776.4287</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>200.93375</xmin>
+      <ymin>698.4639</ymin>
+      <xmax>259.55347</xmax>
+      <ymax>775.2286</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>380.436</xmin>
+      <ymin>137.66887</ymin>
+      <xmax>434.02292</xmax>
+      <ymax>171.95961</ymax>
+    </bndbox>
+  </object>
+</annotations>

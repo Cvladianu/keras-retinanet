@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame00931</file>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>1038.4781</xmin>
+      <ymin>733.60223</ymin>
+      <xmax>1076.0895</xmax>
+      <ymax>760.78754</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>1038.4241</xmin>
+      <ymin>733.2124</ymin>
+      <xmax>1075.1616</xmax>
+      <ymax>761.759</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>1020.42725</xmin>
+      <ymin>225.75356</ymin>
+      <xmax>1082.475</xmax>
+      <ymax>284.76663</ymax>
+    </bndbox>
+  </object>
+</annotations>

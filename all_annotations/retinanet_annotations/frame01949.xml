@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame01949</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>198.98941</xmin>
+      <ymin>483.0863</ymin>
+      <xmax>416.06873</xmax>
+      <ymax>701.67084</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>surfboard</name>
+    <bndbox>
+      <xmin>324.8165</xmin>
+      <ymin>643.9075</ymin>
+      <xmax>388.08362</xmax>
+      <ymax>719.3686</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball bat</name>
+    <bndbox>
+      <xmin>250.35095</xmin>
+      <ymin>490.1966</ymin>
+      <xmax>337.30096</xmax>
+      <ymax>534.88245</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball glove</name>
+    <bndbox>
+      <xmin>224.3354</xmin>
+      <ymin>529.5069</ymin>
+      <xmax>251.95044</xmax>
+      <ymax>558.9338</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tennis racket</name>
+    <bndbox>
+      <xmin>250.35095</xmin>
+      <ymin>490.1966</ymin>
+      <xmax>337.30096</xmax>
+      <ymax>534.88245</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>skateboard</name>
+    <bndbox>
+      <xmin>331.4142</xmin>
+      <ymin>653.2023</ymin>
+      <xmax>389.12494</xmax>
+      <ymax>720.18805</ymax>
+    </bndbox>
+  </object>
+</annotations>

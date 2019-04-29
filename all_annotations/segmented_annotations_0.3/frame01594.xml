@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame01594</file>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>671.35</xmin>
+      <ymin>292.03247</ymin>
+      <xmax>744.07666</xmax>
+      <ymax>379.04846</ymax>
+    </bndbox>
+  </object>
+</annotations>

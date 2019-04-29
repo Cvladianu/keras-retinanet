@@ -1,0 +1,48 @@
+<annotations>
+  <file>frame02263</file>
+  <object>
+    <name>remote</name>
+    <bndbox>
+      <xmin>704.3319</xmin>
+      <ymin>381.22064</ymin>
+      <xmax>745.654</xmax>
+      <ymax>419.37622</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>remote</name>
+    <bndbox>
+      <xmin>676.262</xmin>
+      <ymin>349.507</ymin>
+      <xmax>754.28174</xmax>
+      <ymax>421.68005</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>704.3319</xmin>
+      <ymin>381.22064</ymin>
+      <xmax>745.654</xmax>
+      <ymax>419.37622</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>676.262</xmin>
+      <ymin>349.507</ymin>
+      <xmax>754.28174</xmax>
+      <ymax>421.68005</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>49.34105</ymin>
+      <xmax>1273.8075</xmax>
+      <ymax>960.0</ymax>
+    </bndbox>
+  </object>
+</annotations>

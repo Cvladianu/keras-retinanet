@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame02123</file>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>671.8928</xmin>
+      <ymin>4.872757</ymin>
+      <xmax>1278.7368</xmax>
+      <ymax>463.93945</ymax>
+    </bndbox>
+  </object>
+</annotations>

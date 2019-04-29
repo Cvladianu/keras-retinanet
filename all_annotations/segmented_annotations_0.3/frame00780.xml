@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame00780</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>674.17285</xmin>
+      <ymin>734.9658</ymin>
+      <xmax>880.0966</xmax>
+      <ymax>901.0397</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>682.8964</xmin>
+      <ymin>746.02277</ymin>
+      <xmax>860.8341</xmax>
+      <ymax>892.6682</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>676.6797</xmin>
+      <ymin>761.906</ymin>
+      <xmax>863.09595</xmax>
+      <ymax>905.0341</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>686.90857</xmin>
+      <ymin>745.6817</ymin>
+      <xmax>874.2362</xmax>
+      <ymax>897.4163</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>770.4909</xmin>
+      <ymin>738.6105</ymin>
+      <xmax>880.4542</xmax>
+      <ymax>799.0801</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>772.31067</xmin>
+      <ymin>739.11383</ymin>
+      <xmax>880.2515</xmax>
+      <ymax>797.47565</ymax>
+    </bndbox>
+  </object>
+</annotations>

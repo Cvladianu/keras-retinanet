@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame00889</file>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>488.061</xmin>
+      <ymin>748.22156</ymin>
+      <xmax>532.69495</xmax>
+      <ymax>776.1202</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>261.7234</xmin>
+      <ymin>386.40784</ymin>
+      <xmax>340.55145</xmax>
+      <ymax>455.68085</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>261.2439</xmin>
+      <ymin>387.00015</ymin>
+      <xmax>340.4385</xmax>
+      <ymax>455.84726</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>799.0479</xmin>
+      <ymin>745.75696</ymin>
+      <xmax>825.68097</xmax>
+      <ymax>798.2699</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>838.39044</xmin>
+      <ymin>784.8455</ymin>
+      <xmax>868.2002</xmax>
+      <ymax>819.34033</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>488.061</xmin>
+      <ymin>748.22156</ymin>
+      <xmax>532.69495</xmax>
+      <ymax>776.1202</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tennis racket</name>
+    <bndbox>
+      <xmin>902.1967</xmin>
+      <ymin>695.1415</ymin>
+      <xmax>982.3249</xmax>
+      <ymax>737.95844</ymax>
+    </bndbox>
+  </object>
+</annotations>

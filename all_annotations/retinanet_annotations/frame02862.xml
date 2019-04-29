@@ -1,0 +1,48 @@
+<annotations>
+  <file>frame02862</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>987.5832</xmin>
+      <ymin>204.84436</ymin>
+      <xmax>1016.6736</xmax>
+      <ymax>237.63084</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1040.9083</xmin>
+      <ymin>96.45352</ymin>
+      <xmax>1123.228</xmax>
+      <ymax>236.59683</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1073.6075</xmin>
+      <ymin>143.66203</ymin>
+      <xmax>1121.0742</xmax>
+      <ymax>238.9385</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>1027.2676</xmin>
+      <ymin>14.375835</ymin>
+      <xmax>1151.4364</xmax>
+      <ymax>243.57492</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>1027.2676</xmin>
+      <ymin>14.375835</ymin>
+      <xmax>1151.4364</xmax>
+      <ymax>243.57492</ymax>
+    </bndbox>
+  </object>
+</annotations>

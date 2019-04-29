@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame02758</file>
+  <object>
+    <name>spoon</name>
+    <bndbox>
+      <xmin>1231.0884</xmin>
+      <ymin>51.53812</ymin>
+      <xmax>1278.5814</xmax>
+      <ymax>136.66933</ymax>
+    </bndbox>
+  </object>
+</annotations>

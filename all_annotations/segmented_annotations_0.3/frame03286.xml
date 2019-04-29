@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame03286</file>
+  <object>
+    <name>backpack</name>
+    <bndbox>
+      <xmin>402.1391</xmin>
+      <ymin>134.7006</ymin>
+      <xmax>452.6643</xmax>
+      <ymax>206.72484</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame02712</file>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>1053.3597</xmin>
+      <ymin>161.68312</ymin>
+      <xmax>1108.6493</xmax>
+      <ymax>243.44305</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>1046.5206</xmin>
+      <ymin>123.955</ymin>
+      <xmax>1078.3445</xmax>
+      <ymax>155.59375</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>1054.2938</xmin>
+      <ymin>166.03682</ymin>
+      <xmax>1110.3679</xmax>
+      <ymax>244.61038</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>886.08936</xmin>
+      <ymin>1.875174</ymin>
+      <xmax>1056.7698</xmax>
+      <ymax>102.91026</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>916.7388</xmin>
+      <ymin>16.437412</ymin>
+      <xmax>1016.0203</xmax>
+      <ymax>125.07176</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>945.784</xmin>
+      <ymin>70.20459</ymin>
+      <xmax>1000.155</xmax>
+      <ymax>128.30472</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball glove</name>
+    <bndbox>
+      <xmin>1053.7933</xmin>
+      <ymin>165.31444</ymin>
+      <xmax>1106.5464</xmax>
+      <ymax>244.69498</ymax>
+    </bndbox>
+  </object>
+</annotations>

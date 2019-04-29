@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame01598</file>
+  <object>
+    <name>cake</name>
+    <bndbox>
+      <xmin>328.0227</xmin>
+      <ymin>0.0</ymin>
+      <xmax>941.44147</xmax>
+      <ymax>472.69717</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>863.8781</xmin>
+      <ymin>355.35403</ymin>
+      <xmax>878.97833</xmax>
+      <ymax>378.52118</ymax>
+    </bndbox>
+  </object>
+</annotations>

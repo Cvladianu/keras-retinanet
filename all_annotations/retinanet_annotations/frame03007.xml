@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame03007</file>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>180.80577</xmin>
+      <ymin>1.9807272</ymin>
+      <xmax>295.69437</xmax>
+      <ymax>55.17647</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>212.77385</xmin>
+      <ymin>4.151312</ymin>
+      <xmax>293.61624</xmax>
+      <ymax>54.444805</ymax>
+    </bndbox>
+  </object>
+</annotations>

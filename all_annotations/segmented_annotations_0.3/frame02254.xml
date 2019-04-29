@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame02254</file>
+  <object>
+    <name>cat</name>
+    <bndbox>
+      <xmin>830.9494</xmin>
+      <ymin>276.16953</ymin>
+      <xmax>953.7665</xmax>
+      <ymax>423.28717</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cat</name>
+    <bndbox>
+      <xmin>848.1351</xmin>
+      <ymin>321.52686</ymin>
+      <xmax>892.65063</xmax>
+      <ymax>383.36627</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame01634</file>
+  <object>
+    <name>sheep</name>
+    <bndbox>
+      <xmin>771.7938</xmin>
+      <ymin>605.92474</ymin>
+      <xmax>958.4095</xmax>
+      <ymax>949.9399</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02842</file>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>643.1637</xmin>
+      <ymin>598.2256</ymin>
+      <xmax>710.0416</xmax>
+      <ymax>705.25824</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>641.5647</xmin>
+      <ymin>596.2229</ymin>
+      <xmax>710.6173</xmax>
+      <ymax>706.385</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>643.9265</xmin>
+      <ymin>596.067</ymin>
+      <xmax>711.0558</xmax>
+      <ymax>690.7615</ymax>
+    </bndbox>
+  </object>
+</annotations>

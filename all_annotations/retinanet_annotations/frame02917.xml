@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02917</file>
+  <object>
+    <name>vase</name>
+    <bndbox>
+      <xmin>556.95795</xmin>
+      <ymin>302.24316</ymin>
+      <xmax>621.3928</xmax>
+      <ymax>414.8646</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>banana</name>
+    <bndbox>
+      <xmin>558.458</xmin>
+      <ymin>314.19177</ymin>
+      <xmax>621.9686</xmax>
+      <ymax>414.04916</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>556.95795</xmin>
+      <ymin>302.24316</ymin>
+      <xmax>621.3928</xmax>
+      <ymax>414.8646</ymax>
+    </bndbox>
+  </object>
+</annotations>

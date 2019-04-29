@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame00741</file>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>1077.5566</xmin>
+      <ymin>732.88416</ymin>
+      <xmax>1141.4698</xmax>
+      <ymax>836.453</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>62.28375</xmin>
+      <ymin>878.96094</ymin>
+      <xmax>179.27774</xmax>
+      <ymax>955.3158</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1073.1702</xmin>
+      <ymin>723.9838</ymin>
+      <xmax>1164.449</xmax>
+      <ymax>897.84595</ymax>
+    </bndbox>
+  </object>
+</annotations>

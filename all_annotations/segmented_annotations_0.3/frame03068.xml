@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame03068</file>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>285.63422</xmin>
+      <ymin>134.80095</ymin>
+      <xmax>413.01636</xmax>
+      <ymax>285.95743</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>320.34705</xmin>
+      <ymin>135.43755</ymin>
+      <xmax>414.23395</xmax>
+      <ymax>282.17984</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dog</name>
+    <bndbox>
+      <xmin>285.7117</xmin>
+      <ymin>134.04333</ymin>
+      <xmax>412.7674</xmax>
+      <ymax>285.1335</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dog</name>
+    <bndbox>
+      <xmin>320.17297</xmin>
+      <ymin>134.52644</ymin>
+      <xmax>413.82013</xmax>
+      <ymax>280.6234</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sheep</name>
+    <bndbox>
+      <xmin>282.49258</xmin>
+      <ymin>134.64825</ymin>
+      <xmax>414.1798</xmax>
+      <ymax>285.5011</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>723.1527</xmin>
+      <ymin>653.5587</ymin>
+      <xmax>856.4424</xmax>
+      <ymax>724.76904</ymax>
+    </bndbox>
+  </object>
+</annotations>

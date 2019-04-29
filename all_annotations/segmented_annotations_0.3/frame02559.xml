@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02559</file>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>610.0224</xmin>
+      <ymin>553.42096</ymin>
+      <xmax>721.8491</xmax>
+      <ymax>696.18665</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>skateboard</name>
+    <bndbox>
+      <xmin>610.81226</xmin>
+      <ymin>560.88934</ymin>
+      <xmax>722.00726</xmax>
+      <ymax>696.8759</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>skateboard</name>
+    <bndbox>
+      <xmin>640.1772</xmin>
+      <ymin>546.63055</ymin>
+      <xmax>722.3635</xmax>
+      <ymax>695.48724</ymax>
+    </bndbox>
+  </object>
+</annotations>

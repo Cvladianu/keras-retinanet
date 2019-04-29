@@ -1,0 +1,75 @@
+<annotations>
+  <file>frame02530</file>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>480.24588</xmin>
+      <ymin>1.6121241</ymin>
+      <xmax>610.7779</xmax>
+      <ymax>79.131096</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>481.38983</xmin>
+      <ymin>1.6068054</ymin>
+      <xmax>611.6946</xmax>
+      <ymax>78.27061</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>478.76825</xmin>
+      <ymin>1.8613324</ymin>
+      <xmax>611.578</xmax>
+      <ymax>77.61015</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>1063.5366</xmin>
+      <ymin>2.903636</ymin>
+      <xmax>1253.2726</xmax>
+      <ymax>246.73532</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>truck</name>
+    <bndbox>
+      <xmin>480.24588</xmin>
+      <ymin>1.6121241</ymin>
+      <xmax>610.7779</xmax>
+      <ymax>79.131096</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>1051.2708</xmin>
+      <ymin>27.558426</ymin>
+      <xmax>1088.5138</xmax>
+      <ymax>59.715626</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>parking meter</name>
+    <bndbox>
+      <xmin>481.04825</xmin>
+      <ymin>1.9275994</ymin>
+      <xmax>611.0926</xmax>
+      <ymax>77.78353</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>motorcycle</name>
+    <bndbox>
+      <xmin>482.54898</xmin>
+      <ymin>2.0334423</ymin>
+      <xmax>610.6588</xmax>
+      <ymax>78.54198</ymax>
+    </bndbox>
+  </object>
+</annotations>

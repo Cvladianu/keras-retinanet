@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame01279</file>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>706.4455</xmin>
+      <ymin>391.56693</ymin>
+      <xmax>739.575</xmax>
+      <ymax>453.53952</ymax>
+    </bndbox>
+  </object>
+</annotations>

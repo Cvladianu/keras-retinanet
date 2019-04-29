@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame03076</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>136.16283</xmin>
+      <ymin>323.59332</ymin>
+      <xmax>300.32486</xmax>
+      <ymax>476.36166</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>137.57814</xmin>
+      <ymin>327.44263</ymin>
+      <xmax>298.17114</xmax>
+      <ymax>516.53455</ymax>
+    </bndbox>
+  </object>
+</annotations>

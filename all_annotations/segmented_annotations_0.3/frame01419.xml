@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame01419</file>
+  <object>
+    <name>donut</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>7.1126223</ymin>
+      <xmax>640.1385</xmax>
+      <ymax>476.32376</ymax>
+    </bndbox>
+  </object>
+</annotations>

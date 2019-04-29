@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame02538</file>
+  <object>
+    <name>frisbee</name>
+    <bndbox>
+      <xmin>1166.5309</xmin>
+      <ymin>485.70435</ymin>
+      <xmax>1243.1394</xmax>
+      <ymax>597.1885</ymax>
+    </bndbox>
+  </object>
+</annotations>

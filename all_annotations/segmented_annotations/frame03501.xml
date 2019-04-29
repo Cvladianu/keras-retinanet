@@ -1,0 +1,75 @@
+<annotations>
+  <file>frame03501</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>313.1721</xmin>
+      <ymin>14.556437</ymin>
+      <xmax>335.40613</xmax>
+      <ymax>35.948917</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>317.60687</xmin>
+      <ymin>18.501207</ymin>
+      <xmax>336.9893</xmax>
+      <ymax>43.29842</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>296.87958</xmin>
+      <ymin>12.22968</ymin>
+      <xmax>335.82895</xmax>
+      <ymax>34.701736</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>315.0803</xmin>
+      <ymin>14.4688225</ymin>
+      <xmax>350.29434</xmax>
+      <ymax>42.16306</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>159.58041</xmin>
+      <ymin>13.674366</ymin>
+      <xmax>189.44107</xmax>
+      <ymax>38.24804</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>147.63123</xmin>
+      <ymin>0.0</ymin>
+      <xmax>420.23782</xmax>
+      <ymax>64.15688</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>320.11972</xmin>
+      <ymin>14.309656</ymin>
+      <xmax>334.94916</xmax>
+      <ymax>36.406384</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>0.0</ymin>
+      <xmax>638.92035</xmax>
+      <ymax>476.69043</ymax>
+    </bndbox>
+  </object>
+</annotations>

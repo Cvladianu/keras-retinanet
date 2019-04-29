@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame02753</file>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>1073.8354</xmin>
+      <ymin>81.69398</ymin>
+      <xmax>1092.6145</xmax>
+      <ymax>99.607574</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>1071.9725</xmin>
+      <ymin>98.78723</ymin>
+      <xmax>1134.9006</xmax>
+      <ymax>181.80617</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball glove</name>
+    <bndbox>
+      <xmin>1072.0708</xmin>
+      <ymin>100.016464</ymin>
+      <xmax>1134.1007</xmax>
+      <ymax>180.64497</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball glove</name>
+    <bndbox>
+      <xmin>1072.2631</xmin>
+      <ymin>100.12311</ymin>
+      <xmax>1134.0042</xmax>
+      <ymax>180.38371</ymax>
+    </bndbox>
+  </object>
+</annotations>

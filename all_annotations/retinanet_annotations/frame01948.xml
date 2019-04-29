@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame01948</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>161.2076</xmin>
+      <ymin>435.4884</ymin>
+      <xmax>361.98856</xmax>
+      <ymax>652.5749</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>surfboard</name>
+    <bndbox>
+      <xmin>284.16092</xmin>
+      <ymin>613.86975</ymin>
+      <xmax>350.6612</xmax>
+      <ymax>684.0636</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>skateboard</name>
+    <bndbox>
+      <xmin>289.06415</xmin>
+      <ymin>609.3961</ymin>
+      <xmax>346.91135</xmax>
+      <ymax>684.9225</ymax>
+    </bndbox>
+  </object>
+</annotations>

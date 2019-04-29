@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02059</file>
+  <object>
+    <name>cake</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>8.925865</ymin>
+      <xmax>639.742</xmax>
+      <ymax>477.54776</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>640.0</xmin>
+      <ymin>2.1758173</ymin>
+      <xmax>1254.2788</xmax>
+      <ymax>475.68658</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cat</name>
+    <bndbox>
+      <xmin>684.7594</xmin>
+      <ymin>483.66974</ymin>
+      <xmax>1277.5905</xmax>
+      <ymax>959.43976</ymax>
+    </bndbox>
+  </object>
+</annotations>

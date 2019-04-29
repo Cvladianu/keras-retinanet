@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame03072</file>
+  <object>
+    <name>cat</name>
+    <bndbox>
+      <xmin>243.19691</xmin>
+      <ymin>161.85176</ymin>
+      <xmax>324.34274</xmax>
+      <ymax>274.98996</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>243.19691</xmin>
+      <ymin>161.85176</ymin>
+      <xmax>324.34274</xmax>
+      <ymax>274.98996</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>704.565</xmin>
+      <ymin>737.59485</ymin>
+      <xmax>836.7919</xmax>
+      <ymax>807.8926</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>broccoli</name>
+    <bndbox>
+      <xmin>703.8535</xmin>
+      <ymin>740.2377</ymin>
+      <xmax>838.33545</xmax>
+      <ymax>808.6429</ymax>
+    </bndbox>
+  </object>
+</annotations>

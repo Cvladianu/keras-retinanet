@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame01459</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>410.96252</xmin>
+      <ymin>1.1699649</ymin>
+      <xmax>504.1785</xmax>
+      <ymax>44.47823</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>404.66425</xmin>
+      <ymin>4.191595</ymin>
+      <xmax>462.16022</xmax>
+      <ymax>75.36232</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>408.903</xmin>
+      <ymin>2.2701511</ymin>
+      <xmax>451.24915</xmax>
+      <ymax>39.400795</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>411.4773</xmin>
+      <ymin>0.0</ymin>
+      <xmax>581.3674</xmax>
+      <ymax>58.990128</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>37.25355</xmin>
+      <ymin>756.0014</ymin>
+      <xmax>74.63374</xmax>
+      <ymax>807.0677</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>406.31882</xmin>
+      <ymin>3.4589362</ymin>
+      <xmax>459.1305</xmax>
+      <ymax>80.99005</ymax>
+    </bndbox>
+  </object>
+</annotations>

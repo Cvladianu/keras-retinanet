@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02554</file>
+  <object>
+    <name>scissors</name>
+    <bndbox>
+      <xmin>913.825</xmin>
+      <ymin>599.2791</ymin>
+      <xmax>1013.33405</xmax>
+      <ymax>732.1344</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>915.46436</xmin>
+      <ymin>608.17554</ymin>
+      <xmax>1017.0497</xmax>
+      <ymax>734.3443</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vase</name>
+    <bndbox>
+      <xmin>914.26166</xmin>
+      <ymin>596.6313</ymin>
+      <xmax>1016.7854</xmax>
+      <ymax>732.57153</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame00739</file>
+  <object>
+    <name>broccoli</name>
+    <bndbox>
+      <xmin>48.378464</xmin>
+      <ymin>904.1376</ymin>
+      <xmax>161.35744</xmax>
+      <ymax>958.5804</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>1080.6913</xmin>
+      <ymin>782.9829</ymin>
+      <xmax>1154.0325</xmax>
+      <ymax>890.94293</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1073.9822</xmin>
+      <ymin>797.9864</ymin>
+      <xmax>1169.9788</xmax>
+      <ymax>952.67834</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1079.2766</xmin>
+      <ymin>791.1842</ymin>
+      <xmax>1161.1937</xmax>
+      <ymax>954.6323</ymax>
+    </bndbox>
+  </object>
+</annotations>

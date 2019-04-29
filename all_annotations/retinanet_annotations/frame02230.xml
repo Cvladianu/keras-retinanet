@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02230</file>
+  <object>
+    <name>remote</name>
+    <bndbox>
+      <xmin>845.1792</xmin>
+      <ymin>351.0166</ymin>
+      <xmax>880.6574</xmax>
+      <ymax>386.6908</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>843.58105</xmin>
+      <ymin>350.60184</ymin>
+      <xmax>880.20435</xmax>
+      <ymax>387.12213</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>donut</name>
+    <bndbox>
+      <xmin>801.2506</xmin>
+      <ymin>284.06854</ymin>
+      <xmax>891.06256</xmax>
+      <ymax>383.12177</ymax>
+    </bndbox>
+  </object>
+</annotations>

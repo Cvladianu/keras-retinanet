@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame02755</file>
+  <object>
+    <name>motorcycle</name>
+    <bndbox>
+      <xmin>1029.6587</xmin>
+      <ymin>19.27739</ymin>
+      <xmax>1123.4193</xmax>
+      <ymax>134.13637</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>motorcycle</name>
+    <bndbox>
+      <xmin>1059.8113</xmin>
+      <ymin>53.542152</ymin>
+      <xmax>1119.1328</xmax>
+      <ymax>135.16614</ymax>
+    </bndbox>
+  </object>
+</annotations>

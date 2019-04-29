@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame02993</file>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>902.14014</xmin>
+      <ymin>895.5624</ymin>
+      <xmax>991.6388</xmax>
+      <ymax>944.7909</ymax>
+    </bndbox>
+  </object>
+</annotations>

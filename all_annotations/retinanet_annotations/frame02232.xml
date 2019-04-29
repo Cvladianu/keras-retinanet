@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02232</file>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>2.065558</xmin>
+      <ymin>13.3352785</ymin>
+      <xmax>1280.4</xmax>
+      <ymax>956.9029</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>couch</name>
+    <bndbox>
+      <xmin>0.8243317</xmin>
+      <ymin>8.563087</ymin>
+      <xmax>1278.063</xmax>
+      <ymax>946.0503</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cake</name>
+    <bndbox>
+      <xmin>6.3181276</xmin>
+      <ymin>0.0</ymin>
+      <xmax>1280.4</xmax>
+      <ymax>940.43353</ymax>
+    </bndbox>
+  </object>
+</annotations>

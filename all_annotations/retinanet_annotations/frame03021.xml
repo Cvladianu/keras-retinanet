@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame03021</file>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>371.26605</xmin>
+      <ymin>1.8055923</ymin>
+      <xmax>465.67352</xmax>
+      <ymax>36.389263</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>122.330444</xmin>
+      <ymin>1.1019084</ymin>
+      <xmax>231.7423</xmax>
+      <ymax>36.74088</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>123.13617</xmin>
+      <ymin>1.1310339</ymin>
+      <xmax>230.24683</xmax>
+      <ymax>35.45199</ymax>
+    </bndbox>
+  </object>
+</annotations>

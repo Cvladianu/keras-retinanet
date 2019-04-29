@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame02047</file>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>999.3739</xmin>
+      <ymin>206.49019</ymin>
+      <xmax>1120.1771</xmax>
+      <ymax>371.35144</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>1000.74164</xmin>
+      <ymin>209.4045</ymin>
+      <xmax>1119.108</xmax>
+      <ymax>371.11212</ymax>
+    </bndbox>
+  </object>
+</annotations>

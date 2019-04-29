@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame02731</file>
+  <object>
+    <name>vase</name>
+    <bndbox>
+      <xmin>648.2187</xmin>
+      <ymin>68.84466</ymin>
+      <xmax>724.39514</xmax>
+      <ymax>173.36104</ymax>
+    </bndbox>
+  </object>
+</annotations>

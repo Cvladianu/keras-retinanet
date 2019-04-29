@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame02522</file>
+  <object>
+    <name>motorcycle</name>
+    <bndbox>
+      <xmin>1055.6118</xmin>
+      <ymin>2.1128883</ymin>
+      <xmax>1177.8408</xmax>
+      <ymax>141.65808</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>parking meter</name>
+    <bndbox>
+      <xmin>1054.7937</xmin>
+      <ymin>2.3287222</ymin>
+      <xmax>1185.7161</xmax>
+      <ymax>141.70421</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>parking meter</name>
+    <bndbox>
+      <xmin>1090.8931</xmin>
+      <ymin>34.963634</ymin>
+      <xmax>1155.3787</xmax>
+      <ymax>139.59203</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>1090.8931</xmin>
+      <ymin>34.963634</ymin>
+      <xmax>1155.3787</xmax>
+      <ymax>139.59203</ymax>
+    </bndbox>
+  </object>
+</annotations>

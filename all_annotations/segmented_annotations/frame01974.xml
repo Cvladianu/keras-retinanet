@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame01974</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>318.2579</xmin>
+      <ymin>14.24317</ymin>
+      <xmax>339.93265</xmax>
+      <ymax>35.213135</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>159.31493</xmin>
+      <ymin>13.926733</ymin>
+      <xmax>190.94664</xmax>
+      <ymax>36.495556</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>320.2357</xmin>
+      <ymin>14.565336</ymin>
+      <xmax>339.587</xmax>
+      <ymax>35.056503</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>320.46423</xmin>
+      <ymin>13.760128</ymin>
+      <xmax>350.67883</xmax>
+      <ymax>39.76957</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cat</name>
+    <bndbox>
+      <xmin>856.4926</xmin>
+      <ymin>27.862904</ymin>
+      <xmax>1274.29</xmax>
+      <ymax>471.8431</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>pizza</name>
+    <bndbox>
+      <xmin>855.1966</xmin>
+      <ymin>15.399647</ymin>
+      <xmax>1271.455</xmax>
+      <ymax>466.03052</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>856.4926</xmin>
+      <ymin>27.862904</ymin>
+      <xmax>1274.29</xmax>
+      <ymax>471.8431</ymax>
+    </bndbox>
+  </object>
+</annotations>

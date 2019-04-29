@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame03458</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>322.19614</xmin>
+      <ymin>14.7511215</ymin>
+      <xmax>343.18472</xmax>
+      <ymax>33.41289</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>842.1095</xmin>
+      <ymin>55.34565</ymin>
+      <xmax>862.97754</xmax>
+      <ymax>101.16895</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>844.1949</xmin>
+      <ymin>57.02057</ymin>
+      <xmax>861.5633</xmax>
+      <ymax>104.72355</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1202.9011</xmin>
+      <ymin>74.42276</ymin>
+      <xmax>1217.3906</xmax>
+      <ymax>92.17411</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>1080.125</xmin>
+      <ymin>759.8377</ymin>
+      <xmax>1098.9402</xmax>
+      <ymax>778.48737</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>1079.6528</xmin>
+      <ymin>760.1164</ymin>
+      <xmax>1098.2754</xmax>
+      <ymax>779.2387</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>kite</name>
+    <bndbox>
+      <xmin>1079.8259</xmin>
+      <ymin>759.8616</ymin>
+      <xmax>1098.8553</xmax>
+      <ymax>779.732</ymax>
+    </bndbox>
+  </object>
+</annotations>

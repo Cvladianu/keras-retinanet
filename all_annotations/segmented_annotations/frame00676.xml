@@ -1,0 +1,147 @@
+<annotations>
+  <file>frame00676</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>309.57953</xmin>
+      <ymin>14.029412</ymin>
+      <xmax>332.31512</xmax>
+      <ymax>36.44804</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>159.49068</xmin>
+      <ymin>13.946093</ymin>
+      <xmax>190.27028</xmax>
+      <ymax>37.937683</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>172.5276</xmin>
+      <ymin>13.775883</ymin>
+      <xmax>187.17513</xmax>
+      <ymax>36.54371</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>4.8479095</xmin>
+      <ymin>3.447732</ymin>
+      <xmax>264.79797</xmax>
+      <ymax>66.54948</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>280.94528</xmin>
+      <ymin>13.571203</ymin>
+      <xmax>332.6841</xmax>
+      <ymax>36.75741</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>158.78366</xmin>
+      <ymin>13.958931</ymin>
+      <xmax>177.18724</xmax>
+      <ymax>34.719444</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>190.0514</xmin>
+      <ymin>4.125773</ymin>
+      <xmax>359.78787</xmax>
+      <ymax>50.27353</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>174.81058</xmin>
+      <ymin>0.0</ymin>
+      <xmax>428.93823</xmax>
+      <ymax>63.722916</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>234.42618</xmin>
+      <ymin>8.269027</ymin>
+      <xmax>334.75848</xmax>
+      <ymax>39.813198</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>177.39046</xmin>
+      <ymin>14.7527895</ymin>
+      <xmax>190.13863</xmax>
+      <ymax>41.56448</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>474.19604</xmin>
+      <ymin>13.879446</ymin>
+      <xmax>487.93817</xmax>
+      <ymax>34.437504</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>219.17947</xmin>
+      <ymin>3.625592</ymin>
+      <xmax>345.16806</xmax>
+      <ymax>40.75075</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>10.327268</xmin>
+      <ymin>1.875396</ymin>
+      <xmax>275.89798</xmax>
+      <ymax>68.02437</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>159.64742</xmin>
+      <ymin>4.047951</ymin>
+      <xmax>399.33374</xmax>
+      <ymax>75.26965</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>8.322936</xmin>
+      <ymin>0.20632897</ymin>
+      <xmax>433.85217</xmax>
+      <ymax>97.879196</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tv</name>
+    <bndbox>
+      <xmin>219.17947</xmin>
+      <ymin>3.625592</ymin>
+      <xmax>345.16806</xmax>
+      <ymax>40.75075</ymax>
+    </bndbox>
+  </object>
+</annotations>

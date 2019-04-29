@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame01904</file>
+  <object>
+    <name>kite</name>
+    <bndbox>
+      <xmin>450.24152</xmin>
+      <ymin>319.53436</ymin>
+      <xmax>500.83295</xmax>
+      <ymax>358.02695</ymax>
+    </bndbox>
+  </object>
+</annotations>

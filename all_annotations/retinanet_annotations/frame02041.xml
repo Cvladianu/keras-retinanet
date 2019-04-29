@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame02041</file>
+  <object>
+    <name>backpack</name>
+    <bndbox>
+      <xmin>913.6769</xmin>
+      <ymin>448.69168</ymin>
+      <xmax>1040.907</xmax>
+      <ymax>605.43756</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>916.5775</xmin>
+      <ymin>452.44855</ymin>
+      <xmax>1037.0262</xmax>
+      <ymax>596.68585</ymax>
+    </bndbox>
+  </object>
+</annotations>

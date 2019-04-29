@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame03004</file>
+  <object>
+    <name>cat</name>
+    <bndbox>
+      <xmin>245.3099</xmin>
+      <ymin>22.800426</ymin>
+      <xmax>366.00693</xmax>
+      <ymax>84.079285</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>361.73715</xmin>
+      <ymin>1.5497824</ymin>
+      <xmax>432.37488</xmax>
+      <ymax>34.934364</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>362.0136</xmin>
+      <ymin>0.61239165</ymin>
+      <xmax>431.36243</xmax>
+      <ymax>33.536274</ymax>
+    </bndbox>
+  </object>
+</annotations>

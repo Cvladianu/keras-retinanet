@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame01080</file>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>1053.7533</xmin>
+      <ymin>492.257</ymin>
+      <xmax>1090.3502</xmax>
+      <ymax>518.3312</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>1053.3527</xmin>
+      <ymin>492.5799</ymin>
+      <xmax>1090.9999</xmax>
+      <ymax>517.7672</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>1052.7191</xmin>
+      <ymin>491.9961</ymin>
+      <xmax>1090.2632</xmax>
+      <ymax>517.73676</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>orange</name>
+    <bndbox>
+      <xmin>1053.9164</xmin>
+      <ymin>492.40933</ymin>
+      <xmax>1091.745</xmax>
+      <ymax>517.9139</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>1052.7191</xmin>
+      <ymin>491.9961</ymin>
+      <xmax>1090.2632</xmax>
+      <ymax>517.73676</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>1053.9164</xmin>
+      <ymin>492.40933</ymin>
+      <xmax>1091.745</xmax>
+      <ymax>517.9139</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>1053.9164</xmin>
+      <ymin>492.40933</ymin>
+      <xmax>1091.745</xmax>
+      <ymax>517.9139</ymax>
+    </bndbox>
+  </object>
+</annotations>

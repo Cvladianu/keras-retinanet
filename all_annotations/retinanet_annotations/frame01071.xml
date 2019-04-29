@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame01071</file>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>1158.8564</xmin>
+      <ymin>619.1553</ymin>
+      <xmax>1194.9683</xmax>
+      <ymax>645.2978</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>1035.364</xmin>
+      <ymin>157.53366</ymin>
+      <xmax>1089.5123</xmax>
+      <ymax>208.12871</ymax>
+    </bndbox>
+  </object>
+</annotations>

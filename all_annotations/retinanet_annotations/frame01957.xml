@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame01957</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>831.72485</xmin>
+      <ymin>444.54947</ymin>
+      <xmax>1097.2972</xmax>
+      <ymax>694.2051</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>17.340244</xmin>
+      <ymin>0.0</ymin>
+      <xmax>1280.4</xmax>
+      <ymax>941.4959</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>surfboard</name>
+    <bndbox>
+      <xmin>833.65936</xmin>
+      <ymin>452.98706</ymin>
+      <xmax>1102.4591</xmax>
+      <ymax>701.8468</ymax>
+    </bndbox>
+  </object>
+</annotations>

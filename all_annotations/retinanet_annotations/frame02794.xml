@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02794</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>775.8755</xmin>
+      <ymin>318.84955</ymin>
+      <xmax>964.23334</xmax>
+      <ymax>544.44104</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball bat</name>
+    <bndbox>
+      <xmin>850.8631</xmin>
+      <ymin>428.0169</ymin>
+      <xmax>893.97754</xmax>
+      <ymax>531.1306</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>773.9407</xmin>
+      <ymin>323.50543</ymin>
+      <xmax>963.7535</xmax>
+      <ymax>529.346</ymax>
+    </bndbox>
+  </object>
+</annotations>

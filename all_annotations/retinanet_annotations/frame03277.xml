@@ -1,0 +1,48 @@
+<annotations>
+  <file>frame03277</file>
+  <object>
+    <name>broccoli</name>
+    <bndbox>
+      <xmin>445.062</xmin>
+      <ymin>830.56445</ymin>
+      <xmax>609.19226</xmax>
+      <ymax>940.4641</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>broccoli</name>
+    <bndbox>
+      <xmin>440.92084</xmin>
+      <ymin>847.82043</ymin>
+      <xmax>562.8327</xmax>
+      <ymax>923.67126</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>444.76447</xmin>
+      <ymin>822.2626</ymin>
+      <xmax>609.3304</xmax>
+      <ymax>950.41223</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>830.02454</xmin>
+      <ymin>346.51028</ymin>
+      <xmax>881.7012</xmax>
+      <ymax>420.4441</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>828.8004</xmin>
+      <ymin>344.73322</ymin>
+      <xmax>880.27057</xmax>
+      <ymax>420.04007</ymax>
+    </bndbox>
+  </object>
+</annotations>

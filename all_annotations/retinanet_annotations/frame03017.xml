@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame03017</file>
+  <object>
+    <name>remote</name>
+    <bndbox>
+      <xmin>313.3091</xmin>
+      <ymin>108.56037</ymin>
+      <xmax>435.6674</xmax>
+      <ymax>211.94218</ymax>
+    </bndbox>
+  </object>
+</annotations>

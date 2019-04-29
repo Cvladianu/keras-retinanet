@@ -1,0 +1,93 @@
+<annotations>
+  <file>frame01989</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>318.87357</xmin>
+      <ymin>14.126421</ymin>
+      <xmax>341.32892</xmax>
+      <ymax>37.504684</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>159.73985</xmin>
+      <ymin>13.82184</ymin>
+      <xmax>190.0616</xmax>
+      <ymax>37.34711</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>171.18062</xmin>
+      <ymin>13.766298</ymin>
+      <xmax>188.17159</xmax>
+      <ymax>32.87778</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>158.92644</xmin>
+      <ymin>14.481346</ymin>
+      <xmax>176.1002</xmax>
+      <ymax>36.664135</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>320.26874</xmin>
+      <ymin>14.478394</ymin>
+      <xmax>340.0113</xmax>
+      <ymax>34.811714</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>320.17264</xmin>
+      <ymin>10.923259</ymin>
+      <xmax>345.63928</xmax>
+      <ymax>45.28773</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>0.93033147</ymin>
+      <xmax>640.2</xmax>
+      <ymax>460.55466</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>201.36455</xmin>
+      <ymin>1.0610832</ymin>
+      <xmax>301.17966</xmax>
+      <ymax>36.966206</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>0.0</ymin>
+      <xmax>639.4336</xmax>
+      <ymax>279.1551</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>228.47269</xmin>
+      <ymin>1.7154775</ymin>
+      <xmax>279.99738</xmax>
+      <ymax>32.393147</ymax>
+    </bndbox>
+  </object>
+</annotations>

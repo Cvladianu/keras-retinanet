@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame01950</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>243.34775</xmin>
+      <ymin>503.31555</ymin>
+      <xmax>456.17206</xmax>
+      <ymax>720.889</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>923.2123</xmin>
+      <ymin>45.495575</ymin>
+      <xmax>955.12897</xmax>
+      <ymax>75.76351</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>266.63043</xmin>
+      <ymin>545.3072</ymin>
+      <xmax>295.84048</xmax>
+      <ymax>581.49774</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>899.5722</xmin>
+      <ymin>24.865751</ymin>
+      <xmax>951.62036</xmax>
+      <ymax>76.27583</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball glove</name>
+    <bndbox>
+      <xmin>266.58438</xmin>
+      <ymin>545.2484</ymin>
+      <xmax>296.1275</xmax>
+      <ymax>577.14526</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tennis racket</name>
+    <bndbox>
+      <xmin>330.33237</xmin>
+      <ymin>505.27402</ymin>
+      <xmax>381.0183</xmax>
+      <ymax>538.6669</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball bat</name>
+    <bndbox>
+      <xmin>325.36197</xmin>
+      <ymin>505.64368</ymin>
+      <xmax>380.97543</xmax>
+      <ymax>540.05835</ymax>
+    </bndbox>
+  </object>
+</annotations>

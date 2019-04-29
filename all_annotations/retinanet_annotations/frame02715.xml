@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02715</file>
+  <object>
+    <name>vase</name>
+    <bndbox>
+      <xmin>1021.3594</xmin>
+      <ymin>77.506424</ymin>
+      <xmax>1079.7727</xmax>
+      <ymax>156.35976</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>1021.3594</xmin>
+      <ymin>77.506424</ymin>
+      <xmax>1079.7727</xmax>
+      <ymax>156.35976</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>1021.3594</xmin>
+      <ymin>77.506424</ymin>
+      <xmax>1079.7727</xmax>
+      <ymax>156.35976</ymax>
+    </bndbox>
+  </object>
+</annotations>

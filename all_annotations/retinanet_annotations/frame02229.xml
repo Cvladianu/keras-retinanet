@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame02229</file>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>818.1225</xmin>
+      <ymin>375.94135</ymin>
+      <xmax>860.1386</xmax>
+      <ymax>414.7669</ymax>
+    </bndbox>
+  </object>
+</annotations>

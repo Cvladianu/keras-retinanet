@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame00760</file>
+  <object>
+    <name>giraffe</name>
+    <bndbox>
+      <xmin>642.3536</xmin>
+      <ymin>769.3406</ymin>
+      <xmax>792.454</xmax>
+      <ymax>847.1835</ymax>
+    </bndbox>
+  </object>
+</annotations>

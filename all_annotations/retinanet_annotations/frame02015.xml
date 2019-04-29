@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02015</file>
+  <object>
+    <name>refrigerator</name>
+    <bndbox>
+      <xmin>780.4409</xmin>
+      <ymin>34.578533</ymin>
+      <xmax>1254.6998</xmax>
+      <ymax>960.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>knife</name>
+    <bndbox>
+      <xmin>286.8556</xmin>
+      <ymin>443.5711</ymin>
+      <xmax>383.14795</xmax>
+      <ymax>596.06433</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>286.00372</xmin>
+      <ymin>442.50226</ymin>
+      <xmax>364.83694</xmax>
+      <ymax>557.6056</ymax>
+    </bndbox>
+  </object>
+</annotations>

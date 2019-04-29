@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame00677</file>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>527.2444</xmin>
+      <ymin>3.4618945</ymin>
+      <xmax>603.89966</xmax>
+      <ymax>36.323193</ymax>
+    </bndbox>
+  </object>
+</annotations>

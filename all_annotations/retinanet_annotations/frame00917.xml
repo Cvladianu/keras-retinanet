@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame00917</file>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>885.90674</xmin>
+      <ymin>758.24585</ymin>
+      <xmax>928.74744</xmax>
+      <ymax>786.0924</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>orange</name>
+    <bndbox>
+      <xmin>885.25305</xmin>
+      <ymin>758.13873</ymin>
+      <xmax>928.0444</xmax>
+      <ymax>786.19507</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>1153.956</xmin>
+      <ymin>732.3222</ymin>
+      <xmax>1178.5365</xmax>
+      <ymax>784.87445</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>885.25305</xmin>
+      <ymin>758.13873</ymin>
+      <xmax>928.0444</xmax>
+      <ymax>786.19507</ymax>
+    </bndbox>
+  </object>
+</annotations>

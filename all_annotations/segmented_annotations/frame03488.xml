@@ -1,0 +1,93 @@
+<annotations>
+  <file>frame03488</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>310.40588</xmin>
+      <ymin>14.5346365</ymin>
+      <xmax>331.90652</xmax>
+      <ymax>35.16284</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>159.3381</xmin>
+      <ymin>13.820737</ymin>
+      <xmax>187.90392</xmax>
+      <ymax>38.270428</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>172.63794</xmin>
+      <ymin>13.191772</ymin>
+      <xmax>186.78404</xmax>
+      <ymax>33.507156</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>319.25906</xmin>
+      <ymin>16.25829</ymin>
+      <xmax>333.4682</xmax>
+      <ymax>41.57169</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>158.59633</xmin>
+      <ymin>14.3695135</ymin>
+      <xmax>174.3596</xmax>
+      <ymax>37.185574</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>153.99077</xmin>
+      <ymin>2.5352027</ymin>
+      <xmax>396.76968</xmax>
+      <ymax>68.43312</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>310.2236</xmin>
+      <ymin>14.753012</ymin>
+      <xmax>346.07864</xmax>
+      <ymax>43.06965</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>0.0</ymin>
+      <xmax>638.75165</xmax>
+      <ymax>469.3015</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>6.2483554</ymin>
+      <xmax>640.2</xmax>
+      <ymax>407.13187</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>car</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>0.0</ymin>
+      <xmax>483.4716</xmax>
+      <ymax>119.06876</ymax>
+    </bndbox>
+  </object>
+</annotations>

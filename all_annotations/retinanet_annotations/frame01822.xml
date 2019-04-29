@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame01822</file>
+  <object>
+    <name>kite</name>
+    <bndbox>
+      <xmin>673.1611</xmin>
+      <ymin>518.96375</ymin>
+      <xmax>706.41174</xmax>
+      <ymax>561.20636</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>kite</name>
+    <bndbox>
+      <xmin>676.4229</xmin>
+      <ymin>510.823</ymin>
+      <xmax>719.65546</xmax>
+      <ymax>570.32336</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>679.06604</xmin>
+      <ymin>519.82196</ymin>
+      <xmax>707.41486</xmax>
+      <ymax>568.83215</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>678.72656</xmin>
+      <ymin>516.1359</ymin>
+      <xmax>707.2656</xmax>
+      <ymax>564.3083</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame03033</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>302.00522</xmin>
+      <ymin>3.2324507</ymin>
+      <xmax>406.32764</xmax>
+      <ymax>61.38057</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>641.8738</xmin>
+      <ymin>301.08597</ymin>
+      <xmax>661.649</xmax>
+      <ymax>348.23917</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>641.7827</xmin>
+      <ymin>300.5296</ymin>
+      <xmax>661.344</xmax>
+      <ymax>348.11917</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>642.0298</xmin>
+      <ymin>300.45047</ymin>
+      <xmax>661.4662</xmax>
+      <ymax>348.08917</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>254.21011</xmin>
+      <ymin>751.86206</ymin>
+      <xmax>345.69357</xmax>
+      <ymax>850.4579</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>254.2483</xmin>
+      <ymin>751.7835</ymin>
+      <xmax>344.04575</xmax>
+      <ymax>850.7122</ymax>
+    </bndbox>
+  </object>
+</annotations>

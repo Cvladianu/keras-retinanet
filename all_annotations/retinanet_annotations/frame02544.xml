@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame02544</file>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>949.23663</xmin>
+      <ymin>497.68317</ymin>
+      <xmax>1043.0442</xmax>
+      <ymax>620.03345</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>949.2343</xmin>
+      <ymin>498.6979</ymin>
+      <xmax>1043.2</xmax>
+      <ymax>620.52277</ymax>
+    </bndbox>
+  </object>
+</annotations>

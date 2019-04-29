@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02899</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>776.1785</xmin>
+      <ymin>917.02216</ymin>
+      <xmax>830.9775</xmax>
+      <ymax>960.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>712.6419</xmin>
+      <ymin>686.17194</ymin>
+      <xmax>915.75616</xmax>
+      <ymax>832.249</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>235.96846</xmin>
+      <ymin>1.506757</ymin>
+      <xmax>341.0143</xmax>
+      <ymax>41.765865</ymax>
+    </bndbox>
+  </object>
+</annotations>

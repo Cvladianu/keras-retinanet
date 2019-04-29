@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02060</file>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>5.7839446</ymin>
+      <xmax>1269.4197</xmax>
+      <ymax>959.83704</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>234.26256</xmin>
+      <ymin>4.4893775</ymin>
+      <xmax>293.87787</xmax>
+      <ymax>36.169113</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>234.28427</xmin>
+      <ymin>3.2706325</ymin>
+      <xmax>339.5698</xmax>
+      <ymax>41.36499</ymax>
+    </bndbox>
+  </object>
+</annotations>

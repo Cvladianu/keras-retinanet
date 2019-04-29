@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame03335</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1017.012</xmin>
+      <ymin>702.26447</ymin>
+      <xmax>1272.5505</xmax>
+      <ymax>939.26196</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>731.1811</xmin>
+      <ymin>669.70386</ymin>
+      <xmax>1279.1218</xmax>
+      <ymax>948.98346</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>remote</name>
+    <bndbox>
+      <xmin>1138.9072</xmin>
+      <ymin>839.47327</ymin>
+      <xmax>1272.2018</xmax>
+      <ymax>900.80225</ymax>
+    </bndbox>
+  </object>
+</annotations>

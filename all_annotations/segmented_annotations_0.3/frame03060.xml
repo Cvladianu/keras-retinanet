@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame03060</file>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>762.16315</xmin>
+      <ymin>334.0142</ymin>
+      <xmax>875.6283</xmax>
+      <ymax>454.92834</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>757.2883</xmin>
+      <ymin>332.2615</ymin>
+      <xmax>874.9259</xmax>
+      <ymax>457.28186</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>675.59924</xmin>
+      <ymin>330.6805</ymin>
+      <xmax>867.08276</xmax>
+      <ymax>481.82294</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>751.80884</xmin>
+      <ymin>336.65747</ymin>
+      <xmax>873.6111</xmax>
+      <ymax>460.9851</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>broccoli</name>
+    <bndbox>
+      <xmin>927.4237</xmin>
+      <ymin>626.46423</ymin>
+      <xmax>1048.946</xmax>
+      <ymax>700.40784</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>broccoli</name>
+    <bndbox>
+      <xmin>927.59875</xmin>
+      <ymin>629.2899</ymin>
+      <xmax>1049.0183</xmax>
+      <ymax>697.79236</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>673.5466</xmin>
+      <ymin>329.87955</ymin>
+      <xmax>869.4559</xmax>
+      <ymax>485.81213</ymax>
+    </bndbox>
+  </object>
+</annotations>

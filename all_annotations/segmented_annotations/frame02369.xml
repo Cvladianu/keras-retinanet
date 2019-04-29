@@ -1,0 +1,75 @@
+<annotations>
+  <file>frame02369</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>318.12927</xmin>
+      <ymin>14.629314</ymin>
+      <xmax>338.7691</xmax>
+      <ymax>33.47318</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>320.06122</xmin>
+      <ymin>14.792105</ymin>
+      <xmax>338.9404</xmax>
+      <ymax>34.02127</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>326.73242</xmin>
+      <ymin>16.008465</ymin>
+      <xmax>341.76556</xmax>
+      <ymax>40.253696</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1.2730837</xmin>
+      <ymin>0.0</ymin>
+      <xmax>639.05255</xmax>
+      <ymax>241.23438</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1077.1536</xmin>
+      <ymin>148.64658</ymin>
+      <xmax>1102.9084</xmax>
+      <ymax>188.58443</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>1071.0613</xmin>
+      <ymin>146.54558</ymin>
+      <xmax>1105.6329</xmax>
+      <ymax>195.39027</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>handbag</name>
+    <bndbox>
+      <xmin>624.49536</xmin>
+      <ymin>750.94934</ymin>
+      <xmax>673.12805</xmax>
+      <ymax>805.69226</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>handbag</name>
+    <bndbox>
+      <xmin>624.6776</xmin>
+      <ymin>751.2167</ymin>
+      <xmax>671.53796</xmax>
+      <ymax>805.94965</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame02050</file>
+  <object>
+    <name>donut</name>
+    <bndbox>
+      <xmin>1048.0929</xmin>
+      <ymin>59.199154</ymin>
+      <xmax>1189.4866</xmax>
+      <ymax>206.54721</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>12.02252</xmin>
+      <ymin>18.517859</ymin>
+      <xmax>1280.4</xmax>
+      <ymax>960.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>handbag</name>
+    <bndbox>
+      <xmin>1049.826</xmin>
+      <ymin>55.560368</ymin>
+      <xmax>1184.3934</xmax>
+      <ymax>211.44092</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>backpack</name>
+    <bndbox>
+      <xmin>1050.8052</xmin>
+      <ymin>54.521954</ymin>
+      <xmax>1182.9742</xmax>
+      <ymax>212.14777</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>1048.0929</xmin>
+      <ymin>59.199154</ymin>
+      <xmax>1189.4866</xmax>
+      <ymax>206.54721</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>1048.0929</xmin>
+      <ymin>59.199154</ymin>
+      <xmax>1189.4866</xmax>
+      <ymax>206.54721</ymax>
+    </bndbox>
+  </object>
+</annotations>

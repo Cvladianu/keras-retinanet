@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame00731</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1050.6552</xmin>
+      <ymin>836.62</ymin>
+      <xmax>1128.4473</xmax>
+      <ymax>957.47705</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>1045.381</xmin>
+      <ymin>835.5513</ymin>
+      <xmax>1129.6172</xmax>
+      <ymax>956.1066</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>snowboard</name>
+    <bndbox>
+      <xmin>1012.9366</xmin>
+      <ymin>809.7186</ymin>
+      <xmax>1112.6958</xmax>
+      <ymax>953.5803</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>1010.927</xmin>
+      <ymin>811.1737</ymin>
+      <xmax>1104.6696</xmax>
+      <ymax>925.1063</ymax>
+    </bndbox>
+  </object>
+</annotations>

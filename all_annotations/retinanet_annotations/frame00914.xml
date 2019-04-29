@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame00914</file>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>816.9305</xmin>
+      <ymin>754.273</ymin>
+      <xmax>860.41144</xmax>
+      <ymax>782.83167</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>774.2651</xmin>
+      <ymin>212.4283</ymin>
+      <xmax>849.4656</xmax>
+      <ymax>267.37073</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>808.573</xmin>
+      <ymin>201.97556</ymin>
+      <xmax>846.60876</xmax>
+      <ymax>238.08824</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>1098.4521</xmin>
+      <ymin>734.35004</ymin>
+      <xmax>1122.8107</xmax>
+      <ymax>787.3391</ymax>
+    </bndbox>
+  </object>
+</annotations>

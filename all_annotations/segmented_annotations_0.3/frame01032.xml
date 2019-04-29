@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame01032</file>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>902.01306</xmin>
+      <ymin>904.4165</ymin>
+      <xmax>942.8906</xmax>
+      <ymax>925.2581</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>902.06433</xmin>
+      <ymin>904.2224</ymin>
+      <xmax>942.90857</xmax>
+      <ymax>926.224</ymax>
+    </bndbox>
+  </object>
+</annotations>

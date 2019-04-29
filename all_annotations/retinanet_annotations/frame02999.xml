@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02999</file>
+  <object>
+    <name>sheep</name>
+    <bndbox>
+      <xmin>967.06305</xmin>
+      <ymin>712.3072</ymin>
+      <xmax>1060.9799</xmax>
+      <ymax>760.91595</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>965.1295</xmin>
+      <ymin>713.39343</ymin>
+      <xmax>1059.9474</xmax>
+      <ymax>760.7029</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <bndbox>
+      <xmin>965.32245</xmin>
+      <ymin>713.6059</ymin>
+      <xmax>1061.837</xmax>
+      <ymax>760.72485</ymax>
+    </bndbox>
+  </object>
+</annotations>

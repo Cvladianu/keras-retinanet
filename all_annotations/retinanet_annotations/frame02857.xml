@@ -1,0 +1,48 @@
+<annotations>
+  <file>frame02857</file>
+  <object>
+    <name>sheep</name>
+    <bndbox>
+      <xmin>160.37051</xmin>
+      <ymin>583.823</ymin>
+      <xmax>300.6425</xmax>
+      <ymax>949.7474</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>152.78188</xmin>
+      <ymin>580.99725</ymin>
+      <xmax>293.21982</xmax>
+      <ymax>950.9992</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cow</name>
+    <bndbox>
+      <xmin>160.37051</xmin>
+      <ymin>583.823</ymin>
+      <xmax>300.6425</xmax>
+      <ymax>949.7474</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>150.64362</xmin>
+      <ymin>581.3315</ymin>
+      <xmax>297.95547</xmax>
+      <ymax>953.221</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>157.72308</xmin>
+      <ymin>585.0301</ymin>
+      <xmax>299.6543</xmax>
+      <ymax>951.6557</ymax>
+    </bndbox>
+  </object>
+</annotations>

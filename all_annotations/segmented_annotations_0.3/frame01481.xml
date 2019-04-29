@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame01481</file>
+  <object>
+    <name>skateboard</name>
+    <bndbox>
+      <xmin>492.09998</xmin>
+      <ymin>665.2548</ymin>
+      <xmax>532.56525</xmax>
+      <ymax>758.6809</ymax>
+    </bndbox>
+  </object>
+</annotations>

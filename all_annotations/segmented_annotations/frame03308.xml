@@ -1,0 +1,75 @@
+<annotations>
+  <file>frame03308</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>320.0</xmin>
+      <ymin>14.496063</ymin>
+      <xmax>335.89615</xmax>
+      <ymax>33.674393</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>328.2768</xmin>
+      <ymin>14.013241</ymin>
+      <xmax>341.73825</xmax>
+      <ymax>35.876877</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>320.3652</xmin>
+      <ymin>13.9272585</ymin>
+      <xmax>344.70883</xmax>
+      <ymax>39.88473</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>book</name>
+    <bndbox>
+      <xmin>653.85974</xmin>
+      <ymin>960.8536</ymin>
+      <xmax>740.9479</xmax>
+      <ymax>1194.5814</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>653.85974</xmin>
+      <ymin>960.8536</ymin>
+      <xmax>740.9479</xmax>
+      <ymax>1194.5814</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cell phone</name>
+    <bndbox>
+      <xmin>649.9213</xmin>
+      <ymin>959.1096</ymin>
+      <xmax>739.7218</xmax>
+      <ymax>1195.2678</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>tv</name>
+    <bndbox>
+      <xmin>653.85974</xmin>
+      <ymin>960.8536</ymin>
+      <xmax>740.9479</xmax>
+      <ymax>1194.5814</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>653.85974</xmin>
+      <ymin>960.8536</ymin>
+      <xmax>740.9479</xmax>
+      <ymax>1194.5814</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame02897</file>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>772.55225</xmin>
+      <ymin>854.87024</ymin>
+      <xmax>831.0488</xmax>
+      <ymax>928.62225</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>770.0082</xmin>
+      <ymin>851.0511</ymin>
+      <xmax>829.0498</xmax>
+      <ymax>928.484</ymax>
+    </bndbox>
+  </object>
+</annotations>

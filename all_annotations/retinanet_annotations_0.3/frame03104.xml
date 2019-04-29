@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame03104</file>
+  <object>
+    <name>airplane</name>
+    <bndbox>
+      <xmin>593.6114</xmin>
+      <ymin>598.232</ymin>
+      <xmax>779.72375</xmax>
+      <ymax>797.4228</ymax>
+    </bndbox>
+  </object>
+</annotations>

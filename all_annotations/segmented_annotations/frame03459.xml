@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame03459</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>322.7264</xmin>
+      <ymin>14.99953</ymin>
+      <xmax>345.29865</xmax>
+      <ymax>34.77018</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>289.19397</xmin>
+      <ymin>809.8483</ymin>
+      <xmax>305.22717</xmax>
+      <ymax>825.87604</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>697.6876</xmin>
+      <ymin>693.02545</ymin>
+      <xmax>718.51825</xmax>
+      <ymax>713.0333</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>288.67297</xmin>
+      <ymin>808.1704</ymin>
+      <xmax>304.31747</xmax>
+      <ymax>826.05804</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>289.19397</xmin>
+      <ymin>809.8483</ymin>
+      <xmax>305.22717</xmax>
+      <ymax>825.87604</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>288.9364</xmin>
+      <ymin>809.89935</ymin>
+      <xmax>304.7874</xmax>
+      <ymax>825.83563</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>parking meter</name>
+    <bndbox>
+      <xmin>288.9364</xmin>
+      <ymin>809.89935</ymin>
+      <xmax>304.7874</xmax>
+      <ymax>825.83563</ymax>
+    </bndbox>
+  </object>
+</annotations>

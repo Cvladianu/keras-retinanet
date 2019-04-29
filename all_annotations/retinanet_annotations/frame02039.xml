@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame02039</file>
+  <object>
+    <name>backpack</name>
+    <bndbox>
+      <xmin>896.9789</xmin>
+      <ymin>427.60754</ymin>
+      <xmax>1020.49786</xmax>
+      <ymax>581.0603</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>handbag</name>
+    <bndbox>
+      <xmin>895.39966</xmin>
+      <ymin>429.2268</ymin>
+      <xmax>1019.2454</xmax>
+      <ymax>581.8073</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>suitcase</name>
+    <bndbox>
+      <xmin>893.50745</xmin>
+      <ymin>428.46036</ymin>
+      <xmax>1017.7518</xmax>
+      <ymax>583.93146</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>895.9785</xmin>
+      <ymin>429.81638</ymin>
+      <xmax>1019.1784</xmax>
+      <ymax>582.3641</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>stop sign</name>
+    <bndbox>
+      <xmin>895.53766</xmin>
+      <ymin>425.54218</ymin>
+      <xmax>1015.7284</xmax>
+      <ymax>582.2752</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>897.6503</xmin>
+      <ymin>426.12726</ymin>
+      <xmax>1018.0228</xmax>
+      <ymax>582.1203</ymax>
+    </bndbox>
+  </object>
+</annotations>

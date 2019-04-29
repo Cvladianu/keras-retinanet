@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame03218</file>
+  <object>
+    <name>cat</name>
+    <bndbox>
+      <xmin>661.19666</xmin>
+      <ymin>430.9801</ymin>
+      <xmax>760.5801</xmax>
+      <ymax>498.04144</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>cat</name>
+    <bndbox>
+      <xmin>669.5603</xmin>
+      <ymin>432.56433</ymin>
+      <xmax>761.72876</xmax>
+      <ymax>498.17737</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dog</name>
+    <bndbox>
+      <xmin>662.05817</xmin>
+      <ymin>429.49402</ymin>
+      <xmax>760.66064</xmax>
+      <ymax>498.03207</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,84 @@
+<annotations>
+  <file>frame02984</file>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>729.98065</xmin>
+      <ymin>718.2465</ymin>
+      <xmax>827.6446</xmax>
+      <ymax>764.93176</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>760.34515</xmin>
+      <ymin>723.1354</ymin>
+      <xmax>811.6551</xmax>
+      <ymax>761.79987</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>730.3784</xmin>
+      <ymin>723.58514</ymin>
+      <xmax>781.4966</xmax>
+      <ymax>761.06415</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>776.10583</xmin>
+      <ymin>718.90393</ymin>
+      <xmax>821.0524</xmax>
+      <ymax>751.9186</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>742.1444</xmin>
+      <ymin>718.7826</ymin>
+      <xmax>801.29626</xmax>
+      <ymax>754.33875</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>729.9652</xmin>
+      <ymin>718.85956</ymin>
+      <xmax>827.53015</xmax>
+      <ymax>765.0311</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>731.1861</xmin>
+      <ymin>719.96857</ymin>
+      <xmax>827.5598</xmax>
+      <ymax>762.0414</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>731.1861</xmin>
+      <ymin>719.96857</ymin>
+      <xmax>827.5598</xmax>
+      <ymax>762.0414</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>orange</name>
+    <bndbox>
+      <xmin>729.9652</xmin>
+      <ymin>718.85956</ymin>
+      <xmax>827.53015</xmax>
+      <ymax>765.0311</ymax>
+    </bndbox>
+  </object>
+</annotations>

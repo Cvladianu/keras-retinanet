@@ -1,0 +1,48 @@
+<annotations>
+  <file>frame01187</file>
+  <object>
+    <name>toothbrush</name>
+    <bndbox>
+      <xmin>669.8547</xmin>
+      <ymin>231.54839</ymin>
+      <xmax>728.7802</xmax>
+      <ymax>288.57477</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>670.73627</xmin>
+      <ymin>230.45676</ymin>
+      <xmax>728.1371</xmax>
+      <ymax>287.83255</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>669.73395</xmin>
+      <ymin>230.86656</ymin>
+      <xmax>728.0341</xmax>
+      <ymax>285.95255</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>669.8133</xmin>
+      <ymin>232.07634</ymin>
+      <xmax>729.00586</xmax>
+      <ymax>287.5978</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>669.15985</xmin>
+      <ymin>231.70161</ymin>
+      <xmax>728.6271</xmax>
+      <ymax>288.15225</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame01945</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>145.52644</xmin>
+      <ymin>305.98172</ymin>
+      <xmax>336.965</xmax>
+      <ymax>501.96707</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball bat</name>
+    <bndbox>
+      <xmin>197.51494</xmin>
+      <ymin>306.4871</ymin>
+      <xmax>286.27844</xmax>
+      <ymax>345.89258</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>skateboard</name>
+    <bndbox>
+      <xmin>252.16031</xmin>
+      <ymin>465.30295</ymin>
+      <xmax>314.202</xmax>
+      <ymax>532.05176</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>baseball glove</name>
+    <bndbox>
+      <xmin>172.8238</xmin>
+      <ymin>327.82684</ymin>
+      <xmax>202.96266</xmax>
+      <ymax>360.62234</ymax>
+    </bndbox>
+  </object>
+</annotations>

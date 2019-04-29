@@ -1,0 +1,39 @@
+<annotations>
+  <file>frame02553</file>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>955.78143</xmin>
+      <ymin>575.2181</ymin>
+      <xmax>1052.7573</xmax>
+      <ymax>719.7089</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mouse</name>
+    <bndbox>
+      <xmin>952.93097</xmin>
+      <ymin>585.14856</ymin>
+      <xmax>1053.2244</xmax>
+      <ymax>721.9494</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>952.30457</xmin>
+      <ymin>580.5916</ymin>
+      <xmax>1053.7092</xmax>
+      <ymax>719.60693</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>702.89874</xmin>
+      <ymin>193.16087</ymin>
+      <xmax>861.748</xmax>
+      <ymax>524.65967</ymax>
+    </bndbox>
+  </object>
+</annotations>

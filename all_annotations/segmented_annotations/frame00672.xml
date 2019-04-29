@@ -1,0 +1,93 @@
+<annotations>
+  <file>frame00672</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>308.91046</xmin>
+      <ymin>13.879334</ymin>
+      <xmax>332.5332</xmax>
+      <ymax>36.38513</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>288.8802</xmin>
+      <ymin>11.64665</ymin>
+      <xmax>334.2316</xmax>
+      <ymax>34.96731</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>159.51006</xmin>
+      <ymin>13.721304</ymin>
+      <xmax>189.98483</xmax>
+      <ymax>37.529606</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>208.75732</xmin>
+      <ymin>4.0947394</ymin>
+      <xmax>335.9176</xmax>
+      <ymax>41.329525</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>170.21109</xmin>
+      <ymin>13.647831</ymin>
+      <xmax>188.23682</xmax>
+      <ymax>33.1701</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>173.95494</xmin>
+      <ymin>2.6461961</ymin>
+      <xmax>367.4782</xmax>
+      <ymax>52.787323</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>152.05196</xmin>
+      <ymin>5.44161</ymin>
+      <xmax>403.11777</xmax>
+      <ymax>78.396706</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>258.48492</xmin>
+      <ymin>9.25541</ymin>
+      <xmax>332.14297</xmax>
+      <ymax>36.72305</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>177.5378</xmin>
+      <ymin>14.131165</ymin>
+      <xmax>190.41907</xmax>
+      <ymax>40.922916</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>212.13431</xmin>
+      <ymin>3.2577531</ymin>
+      <xmax>335.89346</xmax>
+      <ymax>41.18086</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,183 @@
+<annotations>
+  <file>frame00639</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>304.42056</xmin>
+      <ymin>14.157723</ymin>
+      <xmax>327.7478</xmax>
+      <ymax>35.694878</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>159.2416</xmin>
+      <ymin>13.896061</ymin>
+      <xmax>190.42699</xmax>
+      <ymax>37.773865</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>213.36832</xmin>
+      <ymin>4.102126</ymin>
+      <xmax>330.07086</xmax>
+      <ymax>40.974037</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>171.29605</xmin>
+      <ymin>12.950878</ymin>
+      <xmax>187.01729</xmax>
+      <ymax>33.653915</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>274.26797</xmin>
+      <ymin>11.123046</ymin>
+      <xmax>328.6878</xmax>
+      <ymax>34.11994</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>143.84624</xmin>
+      <ymin>2.6520047</ymin>
+      <xmax>333.61554</xmax>
+      <ymax>50.30368</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>158.33766</xmin>
+      <ymin>14.358316</ymin>
+      <xmax>175.63625</xmax>
+      <ymax>37.10694</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>311.5111</xmin>
+      <ymin>16.546553</ymin>
+      <xmax>330.1139</xmax>
+      <ymax>40.63174</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>9.348757</xmin>
+      <ymin>3.574838</ymin>
+      <xmax>250.4582</xmax>
+      <ymax>64.465195</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>305.45718</xmin>
+      <ymin>10.541938</ymin>
+      <xmax>331.9401</xmax>
+      <ymax>46.073948</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>120.86364</xmin>
+      <ymin>3.4173493</ymin>
+      <xmax>368.81723</xmax>
+      <ymax>78.90865</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>303.77783</xmin>
+      <ymin>12.013919</ymin>
+      <xmax>334.7383</xmax>
+      <ymax>78.60576</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>15.197136</xmin>
+      <ymin>0.0</ymin>
+      <xmax>476.904</xmax>
+      <ymax>110.15757</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>290.53445</xmin>
+      <ymin>14.066147</ymin>
+      <xmax>327.43558</xmax>
+      <ymax>41.45826</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>362.5309</xmin>
+      <ymin>1.3886304</ymin>
+      <xmax>450.39166</xmax>
+      <ymax>37.66811</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>235.20323</xmin>
+      <ymin>5.043504</ymin>
+      <xmax>314.24118</xmax>
+      <ymax>35.77018</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>185.54314</xmin>
+      <ymin>1.8043053</ymin>
+      <xmax>304.66977</xmax>
+      <ymax>41.644012</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>159.51434</xmin>
+      <ymin>11.666558</ymin>
+      <xmax>190.0761</xmax>
+      <ymax>40.58255</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>11.239023</xmin>
+      <ymin>0.0</ymin>
+      <xmax>623.07245</xmax>
+      <ymax>201.9328</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>219.50691</xmin>
+      <ymin>8.5940695</ymin>
+      <xmax>333.3979</xmax>
+      <ymax>44.214314</ymax>
+    </bndbox>
+  </object>
+</annotations>

@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame02972</file>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>871.59216</xmin>
+      <ymin>757.9183</ymin>
+      <xmax>960.1411</xmax>
+      <ymax>802.2929</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>904.73047</xmin>
+      <ymin>762.85626</ymin>
+      <xmax>956.3192</xmax>
+      <ymax>800.6766</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>892.28644</xmin>
+      <ymin>757.66364</ymin>
+      <xmax>945.52954</xmax>
+      <ymax>794.1918</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>870.2085</xmin>
+      <ymin>761.8048</ymin>
+      <xmax>919.1792</xmax>
+      <ymax>799.08435</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>871.9403</xmin>
+      <ymin>757.54065</ymin>
+      <xmax>960.9992</xmax>
+      <ymax>801.6859</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sheep</name>
+    <bndbox>
+      <xmin>872.7987</xmin>
+      <ymin>757.61346</ymin>
+      <xmax>960.7318</xmax>
+      <ymax>804.21875</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>872.24475</xmin>
+      <ymin>757.815</ymin>
+      <xmax>961.96643</xmax>
+      <ymax>802.21985</ymax>
+    </bndbox>
+  </object>
+</annotations>

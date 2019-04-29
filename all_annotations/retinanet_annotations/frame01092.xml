@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame01092</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>848.3086</xmin>
+      <ymin>161.83958</ymin>
+      <xmax>909.1643</xmax>
+      <ymax>205.98775</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>1093.4205</xmin>
+      <ymin>428.28522</ymin>
+      <xmax>1131.823</xmax>
+      <ymax>453.46225</ymax>
+    </bndbox>
+  </object>
+</annotations>

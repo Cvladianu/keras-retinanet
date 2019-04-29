@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame02998</file>
+  <object>
+    <name>broccoli</name>
+    <bndbox>
+      <xmin>975.676</xmin>
+      <ymin>642.41406</ymin>
+      <xmax>1068.934</xmax>
+      <ymax>695.0698</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>broccoli</name>
+    <bndbox>
+      <xmin>975.4964</xmin>
+      <ymin>642.8222</ymin>
+      <xmax>1068.6279</xmax>
+      <ymax>694.19055</ymax>
+    </bndbox>
+  </object>
+</annotations>

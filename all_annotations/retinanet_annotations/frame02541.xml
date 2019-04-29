@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame02541</file>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>1011.35535</xmin>
+      <ymin>495.51944</ymin>
+      <xmax>1096.6826</xmax>
+      <ymax>619.58813</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>hair drier</name>
+    <bndbox>
+      <xmin>1011.2896</xmin>
+      <ymin>493.38696</ymin>
+      <xmax>1096.6759</xmax>
+      <ymax>619.5505</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>1010.60925</xmin>
+      <ymin>483.0652</ymin>
+      <xmax>1096.2163</xmax>
+      <ymax>621.4217</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>sports ball</name>
+    <bndbox>
+      <xmin>746.4817</xmin>
+      <ymin>172.71173</ymin>
+      <xmax>789.55994</xmax>
+      <ymax>204.2487</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vase</name>
+    <bndbox>
+      <xmin>1010.2208</xmin>
+      <ymin>485.62405</ymin>
+      <xmax>1095.5778</xmax>
+      <ymax>620.61676</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>scissors</name>
+    <bndbox>
+      <xmin>1010.2208</xmin>
+      <ymin>485.62405</ymin>
+      <xmax>1095.5778</xmax>
+      <ymax>620.61676</ymax>
+    </bndbox>
+  </object>
+</annotations>

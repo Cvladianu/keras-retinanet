@@ -1,0 +1,12 @@
+<annotations>
+  <file>frame03470</file>
+  <object>
+    <name>elephant</name>
+    <bndbox>
+      <xmin>775.014</xmin>
+      <ymin>632.96967</ymin>
+      <xmax>1280.4</xmax>
+      <ymax>947.8831</ymax>
+    </bndbox>
+  </object>
+</annotations>

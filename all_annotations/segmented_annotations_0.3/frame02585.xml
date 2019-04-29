@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame02585</file>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>508.58698</xmin>
+      <ymin>1.3445034</ymin>
+      <xmax>600.4094</xmax>
+      <ymax>52.471375</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>508.47604</xmin>
+      <ymin>0.9708361</ymin>
+      <xmax>600.6835</xmax>
+      <ymax>52.15115</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>861.71124</xmin>
+      <ymin>727.2166</ymin>
+      <xmax>945.1648</xmax>
+      <ymax>881.8969</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>863.94354</xmin>
+      <ymin>729.4072</ymin>
+      <xmax>946.0384</xmax>
+      <ymax>886.7783</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>860.8551</xmin>
+      <ymin>725.5132</ymin>
+      <xmax>949.9253</xmax>
+      <ymax>876.5805</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>863.76556</xmin>
+      <ymin>728.1895</ymin>
+      <xmax>946.00745</xmax>
+      <ymax>877.30743</ymax>
+    </bndbox>
+  </object>
+</annotations>

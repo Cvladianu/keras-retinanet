@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame02526</file>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>982.3419</xmin>
+      <ymin>89.73981</ymin>
+      <xmax>1095.1467</xmax>
+      <ymax>286.0989</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>979.4988</xmin>
+      <ymin>79.161156</ymin>
+      <xmax>1082.1526</xmax>
+      <ymax>285.5657</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>944.5951</xmin>
+      <ymin>21.90302</ymin>
+      <xmax>1113.4111</xmax>
+      <ymax>281.2831</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>988.27454</xmin>
+      <ymin>89.96506</ymin>
+      <xmax>1087.0702</xmax>
+      <ymax>287.20166</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>1077.7925</xmin>
+      <ymin>98.26295</ymin>
+      <xmax>1149.6583</xmax>
+      <ymax>197.4101</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>1165.9814</xmin>
+      <ymin>343.0345</ymin>
+      <xmax>1226.166</xmax>
+      <ymax>444.8933</ymax>
+    </bndbox>
+  </object>
+</annotations>

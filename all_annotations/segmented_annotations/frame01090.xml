@@ -1,0 +1,57 @@
+<annotations>
+  <file>frame01090</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>310.49875</xmin>
+      <ymin>14.582776</ymin>
+      <xmax>332.39853</xmax>
+      <ymax>33.618477</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>clock</name>
+    <bndbox>
+      <xmin>774.7315</xmin>
+      <ymin>229.66275</ymin>
+      <xmax>794.51483</xmax>
+      <ymax>245.47713</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>1097.6726</xmin>
+      <ymin>425.28433</ymin>
+      <xmax>1134.3916</xmax>
+      <ymax>448.03186</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>apple</name>
+    <bndbox>
+      <xmin>1097.435</xmin>
+      <ymin>425.13986</ymin>
+      <xmax>1134.1624</xmax>
+      <ymax>447.9335</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bed</name>
+    <bndbox>
+      <xmin>0.0</xmin>
+      <ymin>488.57562</ymin>
+      <xmax>625.11505</xmax>
+      <ymax>960.0</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>teddy bear</name>
+    <bndbox>
+      <xmin>438.5005</xmin>
+      <ymin>705.48987</ymin>
+      <xmax>531.4873</xmax>
+      <ymax>833.1127</ymax>
+    </bndbox>
+  </object>
+</annotations>

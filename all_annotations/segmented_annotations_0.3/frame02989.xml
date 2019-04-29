@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02989</file>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>326.97202</xmin>
+      <ymin>2.7186813</ymin>
+      <xmax>427.5895</xmax>
+      <ymax>52.213116</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>kite</name>
+    <bndbox>
+      <xmin>327.18002</xmin>
+      <ymin>2.5916274</ymin>
+      <xmax>424.3656</xmax>
+      <ymax>52.382168</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bird</name>
+    <bndbox>
+      <xmin>671.2095</xmin>
+      <ymin>920.7698</ymin>
+      <xmax>767.73425</xmax>
+      <ymax>958.6392</ymax>
+    </bndbox>
+  </object>
+</annotations>

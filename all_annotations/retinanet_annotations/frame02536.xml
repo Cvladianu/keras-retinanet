@@ -1,0 +1,66 @@
+<annotations>
+  <file>frame02536</file>
+  <object>
+    <name>vase</name>
+    <bndbox>
+      <xmin>1166.2206</xmin>
+      <ymin>428.78073</ymin>
+      <xmax>1239.5348</xmax>
+      <ymax>569.10016</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>975.8699</xmin>
+      <ymin>119.99449</ymin>
+      <xmax>1086.6603</xmax>
+      <ymax>386.76562</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>person</name>
+    <bndbox>
+      <xmin>932.1904</xmin>
+      <ymin>26.686047</ymin>
+      <xmax>1161.4531</xmax>
+      <ymax>382.993</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>traffic light</name>
+    <bndbox>
+      <xmin>976.1665</xmin>
+      <ymin>110.7726</ymin>
+      <xmax>1088.5802</xmax>
+      <ymax>387.33646</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>bottle</name>
+    <bndbox>
+      <xmin>1166.2206</xmin>
+      <ymin>428.78073</ymin>
+      <xmax>1239.5348</xmax>
+      <ymax>569.10016</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>parking meter</name>
+    <bndbox>
+      <xmin>976.1665</xmin>
+      <ymin>110.7726</ymin>
+      <xmax>1088.5802</xmax>
+      <ymax>387.33646</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>fire hydrant</name>
+    <bndbox>
+      <xmin>975.8699</xmin>
+      <ymin>119.99449</ymin>
+      <xmax>1086.6603</xmax>
+      <ymax>386.76562</ymax>
+    </bndbox>
+  </object>
+</annotations>

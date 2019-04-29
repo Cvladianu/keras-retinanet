@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02040</file>
+  <object>
+    <name>handbag</name>
+    <bndbox>
+      <xmin>929.7418</xmin>
+      <ymin>454.4802</ymin>
+      <xmax>1053.3322</xmax>
+      <ymax>611.0093</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>backpack</name>
+    <bndbox>
+      <xmin>931.39294</xmin>
+      <ymin>452.7244</ymin>
+      <xmax>1052.7297</xmax>
+      <ymax>610.3492</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vase</name>
+    <bndbox>
+      <xmin>929.7418</xmin>
+      <ymin>454.4802</ymin>
+      <xmax>1053.3322</xmax>
+      <ymax>611.0093</ymax>
+    </bndbox>
+  </object>
+</annotations>

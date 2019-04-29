@@ -1,0 +1,30 @@
+<annotations>
+  <file>frame02563</file>
+  <object>
+    <name>dog</name>
+    <bndbox>
+      <xmin>213.04926</xmin>
+      <ymin>3.9224396</ymin>
+      <xmax>481.9662</xmax>
+      <ymax>243.14642</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>skateboard</name>
+    <bndbox>
+      <xmin>464.82208</xmin>
+      <ymin>260.98123</ymin>
+      <xmax>582.4728</xmax>
+      <ymax>427.32382</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>skateboard</name>
+    <bndbox>
+      <xmin>466.24664</xmin>
+      <ymin>261.74304</ymin>
+      <xmax>583.6288</xmax>
+      <ymax>427.38745</ymax>
+    </bndbox>
+  </object>
+</annotations>

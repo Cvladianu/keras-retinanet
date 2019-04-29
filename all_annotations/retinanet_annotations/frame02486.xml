@@ -1,0 +1,21 @@
+<annotations>
+  <file>frame02486</file>
+  <object>
+    <name>knife</name>
+    <bndbox>
+      <xmin>1139.1572</xmin>
+      <ymin>0.9414162</ymin>
+      <xmax>1191.9481</xmax>
+      <ymax>50.713863</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>spoon</name>
+    <bndbox>
+      <xmin>1139.1572</xmin>
+      <ymin>0.9414162</ymin>
+      <xmax>1191.9481</xmax>
+      <ymax>50.713863</ymax>
+    </bndbox>
+  </object>
+</annotations>
